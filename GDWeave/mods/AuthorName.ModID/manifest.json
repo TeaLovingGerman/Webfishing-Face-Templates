@@ -1,0 +1,15 @@
+{
+  "Id": "AuthorName.ModID",
+  "AssemblyPath": null,
+  "PackPath": "AuthorName.ModID.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "Face Template",
+    "Author": "PUT YOUR AUTHOR NAME HERE",
+    "Version": "1.0.0",
+    "Description": "Add a cool description here.",
+    "Homepage": "https://github.com/TeaLovingGerman/AuthorName.ModID",
+  }
+}
