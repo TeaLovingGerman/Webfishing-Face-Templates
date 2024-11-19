@@ -2,7 +2,7 @@
   "name": "AuthorName.ModID",
   "description": "A template for making eyes, mouths and noses.",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/TeaLovingGerman/AuthorName.ModID",
+  "website_url": "https://github.com/TeaLovingGerman/Webfishing-Face-Templates",
   "dependencies": [
     "NotNet-GDWeave-2.0.13",
     "Sulayre-Lure-4.2.1"
