@@ -1,0 +1,18 @@
+Replace every instance of "AuthorName" with your name (e.g. CoolModMaker)
+and every instance of "ModID with the ID of your mod (e.g. CoolMod).
+
+If there is a period between these instances, then that is part of the preferred formating for mods.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+You can delete the following, once you are finished and ready to upload:
+	- any .txt file, including this one
+	- "Canvas with templates.png" and "How to disable antialiasing.png", including the corresponding .import files
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+SOME OTHER IMPORTANT THINGS TO NOTE
+
+	- Rename the project in the Godot Editor to "AuthorName.ModID", make sure to insert your name and your mod's ID here!
+
+

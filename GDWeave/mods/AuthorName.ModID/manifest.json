@@ -1,7 +1,7 @@
 {
   "Id": "AuthorName.ModID",
   "AssemblyPath": null,
-  "PackPath": "AuthorName.ModID.pck",
+  "PackPath": "AuthorNameModID.pck",
   "Dependencies": [
     "Sulayre.Lure"
   ],
