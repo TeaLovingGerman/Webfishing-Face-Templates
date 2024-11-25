@@ -13,6 +13,8 @@ You can delete the following, once you are finished and ready to upload:
 
 SOME OTHER IMPORTANT THINGS TO NOTE
 
+	- Eyes are displayed blurry by default, because antialiasing is enabled.
+		Look at "How to disable antialiasing.png" for more info under \GDWeave\mods\AuthorName.ModID\Textures
 	- Rename the project in the Godot Editor to "AuthorName.ModID", make sure to insert your name and your mod's ID here!
 
 

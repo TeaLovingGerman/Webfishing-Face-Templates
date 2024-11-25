@@ -1,11 +1,11 @@
 [gd_resource type="Resource" load_steps=3 format=2]
 
 [ext_resource path="res://Resources/Scripts/cosmetic_resource.gd" type="Script" id=1]
-[ext_resource path="res://mods/AuthorName.ModID/Textures/Eyes/inrotationtrue_eyes.png" type="Texture" id=2]
+[ext_resource path="res://mods/AuthorName.ModID/Textures/Eyes/template_eyes.png" type="Texture" id=2]
 
 [resource]
 script = ExtResource( 1 )
-name = "inrotationtrue_eyes"
+name = "Template Eyes"
 desc = "A template for custom eyes."
 title = ""
 icon = ExtResource( 2 )
@@ -17,6 +17,6 @@ flip = false
 allow_blink = true
 category = "eye"
 cos_internal_id = 0
-in_rotation = true
+in_rotation = false
 chest_reward = false
 cost = 10

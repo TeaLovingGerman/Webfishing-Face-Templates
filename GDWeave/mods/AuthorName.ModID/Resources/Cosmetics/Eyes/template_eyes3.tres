@@ -1,18 +1,22 @@
 [gd_resource type="Resource" load_steps=3 format=2]
 
 [ext_resource path="res://Resources/Scripts/cosmetic_resource.gd" type="Script" id=1]
-[ext_resource path="res://mods/AuthorName.ModID/Textures/Mouths/templatebig_mouth.png" type="Texture" id=2]
+[ext_resource path="res://mods/AuthorName.ModID/Textures/Eyes/template_eyes.png" type="Texture" id=2]
 
 [resource]
 script = ExtResource( 1 )
-name = "Template BIG Mouth"
-desc = "A template for a custom mouth."
+name = "Template Eyes"
+desc = "A template for custom eyes."
 title = ""
 icon = ExtResource( 2 )
+species_alt_mesh = [  ]
 main_color = Color( 1, 1, 1, 1 )
 body_pattern = [  ]
 mirror_face = true
+flip = false
 allow_blink = true
-category = "mouth"
+category = "eye"
+cos_internal_id = 0
 in_rotation = false
+chest_reward = false
 cost = 10
